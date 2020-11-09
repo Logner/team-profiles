@@ -1,0 +1,11 @@
+{
+  "name": "team-profiles",
+  "version": "1.0.0",
+  "description": "Commandline based profile generator, that takes in inputs from the commandline and produces an html file",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kumash Patel",
+  "license": "ISC"
+}
